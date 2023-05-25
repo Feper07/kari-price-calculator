@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kari-price-calculator/static/css/main.a712f9d6.css",
+    "main.js": "/kari-price-calculator/static/js/main.b7704342.js",
+    "index.html": "/kari-price-calculator/index.html",
+    "main.a712f9d6.css.map": "/kari-price-calculator/static/css/main.a712f9d6.css.map",
+    "main.b7704342.js.map": "/kari-price-calculator/static/js/main.b7704342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a712f9d6.css",
+    "static/js/main.b7704342.js"
+  ]
+}
