@@ -1,0 +1,57 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.input-container label {
+  margin-bottom: 10px;
+}
+
+.input-container input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.input-container button {
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+.valor-total-container {
+  margin-bottom: 20px;
+}
+
+.valor-total-container label {
+  font-weight: bold;
+}
+
+.tabla-rangos-container {
+  text-align: left;
+}
+
+.tabla-rangos-container h2 {
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
